@@ -7,6 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Moneybox.App", "Moneybox.Ap
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyBox.App.MsTests", "MoneyBox.App.MsTests\MoneyBox.App.MsTests.csproj", "{00ADB32F-7DB4-493A-9BAA-2B6DF2CFA523}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{964533BB-5652-4CB2-83D2-6654EC6A2A05}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Pictures\TestFeatures.png = ..\..\..\..\Pictures\TestFeatures.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

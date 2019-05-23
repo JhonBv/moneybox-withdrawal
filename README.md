@@ -48,7 +48,16 @@ As well as the
 * **MSTest Framework** &
 * **MSTest Adapter 1.3.2**
 
+SpecFlow is an excellent library to perform tests of this nature so I decided to use the library. More can be found at the following Url: [SpecFlow 3.](https://specflow.org/getting-started/)
+
+
+
 In the Test project there Three (3) Features each with Test scenarios based on the functionality that will be tested.
-Below each Feature there is a file named afte the feature and ends with Steps. So, for the MoneyDeposit.feature, the MoneyDepositSteps.cs file lies directly below.
+Below each Feature there is a file named after the feature and ends with Steps. So, for the MoneyDeposit.feature, the MoneyDepositSteps.cs file lies directly below.
 
 The *Steps file contains all the steps for testing the feature.
+
+## What could be done better?
+Time permitting, a stronger testing harness could be created by adding a proper Mock<Accounts> by using the MOQ library and then use FluentAssertions to perform the Assertions.
+
+Better produced Test Scenarios could help in future development as well.
