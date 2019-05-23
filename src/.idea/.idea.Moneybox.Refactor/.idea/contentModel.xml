@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.nuget/packages/mstest.testadapter/1.3.2/build/_common/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/mstest.testadapter/1.3.2/build/_common/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/mstest.testadapter/1.3.2/build/netcoreapp1.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/BoDi.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/CommandLine.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/FSharp.Core.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/Microsoft.Data.Services.Client.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/Microsoft.VisualStudio.Threading.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/Microsoft.VisualStudio.Validation.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/Microsoft.Web.Publishing.Tasks.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/Newtonsoft.Json.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/RazorEngine.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/RestSharp.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/SpecFlow.Plus.Runner.Reporting.exe" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/SpecFlow.Plus.Runner.Reporting.exe.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/SpecFlow.Plus.Shared.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/SpecRun.exe" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/SpecRun.exe.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/SpecRunTestProfile.xsd" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/SpecRunTestProfile_2011_09.xsd" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/StreamJsonRpc.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/System.Web.Razor.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/TechTalk.SpecFlow.Plus.RPC.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/TechTalk.SpecRun.Common.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/TechTalk.SpecRun.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/TechTalk.SpecRun.Framework.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/TechTalk.SpecRun.Framework.dll.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/TechTalk.SpecRun.Framework.Executor.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/TechTalk.SpecRun.Framework.Executor.dll.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/TechTalk.SpecRun.Framework.Executor.x86.clr40.exe" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/TechTalk.SpecRun.Framework.Executor.x86.clr40.exe.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/TechTalk.SpecRun.Framework.Interfaces.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/TechTalk.SpecRun.Framework.Utils.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/TechTalk.SpecRun.Server.CommandClient.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/TechTalk.SpecRun.Server.Commands.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/TechTalk.SpecRun.Server.ReadModelClient.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/TechTalk.SpecRun.VisualStudio.TestAdapter.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/net45/TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/BoDi.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/FSharp.Core.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/Microsoft.VisualStudio.Threading.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/Microsoft.VisualStudio.Validation.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/Newtonsoft.Json.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/SpecFlow.Plus.Shared.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/StreamJsonRpc.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/System.Configuration.ConfigurationManager.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/System.Memory.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/System.Security.AccessControl.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/System.Security.Cryptography.ProtectedData.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/System.Security.Permissions.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/System.Security.Principal.Windows.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/TechTalk.SpecFlow.Plus.RPC.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/TechTalk.SpecRun.Common.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/TechTalk.SpecRun.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/TechTalk.SpecRun.Framework.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/TechTalk.SpecRun.Framework.dll.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.pdb" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.runtimeconfig.json" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/TechTalk.SpecRun.Framework.Executor.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/TechTalk.SpecRun.Framework.Executor.dll.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.pdb" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.runtimeconfig.json" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/TechTalk.SpecRun.Framework.Interfaces.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/TechTalk.SpecRun.Framework.Utils.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/TechTalk.SpecRun.VisualStudio.TestAdapter.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.0/TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/BoDi.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/FSharp.Core.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/Microsoft.VisualStudio.Threading.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/Microsoft.VisualStudio.Validation.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/Newtonsoft.Json.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/SpecFlow.Plus.Shared.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/StreamJsonRpc.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/System.Configuration.ConfigurationManager.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/System.Runtime.CompilerServices.Unsafe.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/System.Security.Cryptography.ProtectedData.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/System.Security.Permissions.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/TechTalk.SpecFlow.Plus.RPC.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/TechTalk.SpecRun.Common.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/TechTalk.SpecRun.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/TechTalk.SpecRun.Framework.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/TechTalk.SpecRun.Framework.dll.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.pdb" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.runtimeconfig.json" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/TechTalk.SpecRun.Framework.Executor.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/TechTalk.SpecRun.Framework.Executor.dll.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.pdb" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.runtimeconfig.json" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/TechTalk.SpecRun.Framework.Interfaces.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/TechTalk.SpecRun.Framework.Utils.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/TechTalk.SpecRun.VisualStudio.TestAdapter.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.1/TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/BoDi.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/FSharp.Core.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/Microsoft.VisualStudio.Threading.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/Microsoft.VisualStudio.Validation.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/Newtonsoft.Json.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/SpecFlow.Plus.Shared.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/StreamJsonRpc.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/System.Configuration.ConfigurationManager.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/System.Runtime.CompilerServices.Unsafe.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/System.Security.Cryptography.ProtectedData.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/System.Security.Permissions.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/TechTalk.SpecFlow.Plus.RPC.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/TechTalk.SpecRun.Common.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/TechTalk.SpecRun.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/TechTalk.SpecRun.Framework.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/TechTalk.SpecRun.Framework.dll.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.pdb" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.runtimeconfig.json" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/TechTalk.SpecRun.Framework.Executor.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/TechTalk.SpecRun.Framework.Executor.dll.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.pdb" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.runtimeconfig.json" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/TechTalk.SpecRun.Framework.Interfaces.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/TechTalk.SpecRun.Framework.Utils.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/TechTalk.SpecRun.VisualStudio.TestAdapter.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.runner/3.0.344/tools/netcoreapp2.2/TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.specflow.3-0-0/3.0.344/lib/netstandard2.0/SpecRun.Runtime.SpecFlowPlugin.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.specflow.3-0-0/3.0.344/lib/netstandard2.0/TechTalk.SpecRun.Common.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/specrun.specflow.3-0-0/3.0.344/lib/netstandard2.0/TechTalk.SpecRun.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.0/build/netcoreapp1.0/xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.0/build/netcoreapp1.0/xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.0/build/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Moneybox.App" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DataAccess" t="Include">
+          <e p="IAccountRepository.cs" t="Include" />
+          <e p="IUserRepository.cs" t="Include" />
+        </e>
+        <e p="Domain" t="Include">
+          <e p="Account.cs" t="Include" />
+          <e p="Services" t="Include">
+            <e p="INotificationService.cs" t="Include" />
+          </e>
+          <e p="User.cs" t="Include" />
+        </e>
+        <e p="Features" t="Include">
+          <e p="TransferMoney.cs" t="Include" />
+          <e p="WithdrawMoney.cs" t="Include" />
+        </e>
+        <e p="Moneybox.App.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Moneybox.App.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MoneyBox.App.MsTests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MoneyBox.App.MsTests.csproj" t="IncludeRecursive" />
+        <e p="MoneyWithdraw.feature.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MoneyBox.App.MsTests.AssemblyInfo.cs" t="Include" />
+              <e p="MoneyBox.App.MsTests.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="SpecFlowPlusRunner" t="Include">
+          <e p="net45" t="Include" />
+          <e p="netcoreapp2.0" t="Include" />
+          <e p="netcoreapp2.1" t="Include" />
+          <e p="netcoreapp2.2" t="Include" />
+        </e>
+        <e p="UnitTest1.cs" t="Include" />
+        <e p="WithdrawMoney.cs" t="Include" />
+      </e>
+      <e p="MoneyBox.App.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MoneyBox.App.Tests.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MoneyBox.App.Tests.AssemblyInfo.cs" t="Include" />
+              <e p="MoneyBox.App.Tests.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="SpecFlowPlusRunner" t="Include">
+          <e p="net45" t="Include" />
+          <e p="netcoreapp2.0" t="Include" />
+          <e p="netcoreapp2.1" t="Include" />
+          <e p="netcoreapp2.2" t="Include" />
+        </e>
+        <e p="UnitTest1.cs" t="Include" />
+      </e>
+      <e p="Moneybox.Refactor.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_Moneybox.Refactor.-1727720429.00" t="ExcludeRecursive" />
+  </component>
+</project>
