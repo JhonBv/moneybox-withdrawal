@@ -56,7 +56,10 @@ SpecFlow is an excellent library to perform tests of this nature so I decided to
 In the Test project there Three (3) Features each with Test scenarios based on the functionality that will be tested.
 Below each Feature there is a file named after the feature and ends with Steps. So, for the MoneyDeposit.feature, the MoneyDepositSteps.cs file lies directly below.
 
+To run the tests, just make sure that the **Test Explorer** window is visible and click on Run.
+
 ![Features and Steps](https://github.com/JhonBv/moneybox-withdrawal/blob/master/TestFeatures.png)
+![Test Results](https://github.com/JhonBv/moneybox-withdrawal/blob/master/PassedTests.PNG)
 
 The *Steps file contains all the steps for testing the feature.
 
