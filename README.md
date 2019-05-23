@@ -24,13 +24,14 @@ As part of this process however, you should look to refactor some of the code in
 Once you have completed your work, send us a link to your public repository.
 
 Good luck!
-> ## The following section relates to the Refactoring excercise for MoneyBox
-
+>
+> ## The following section relates to the Refactoring excercise for MoneyBox by JhonBv
+>
 ## Code Refactoring
 
-The **Account** class had only properties and all of the Business Logic were written in the Features classes. This is ok for very small systems and if the **Account** class was to be uses as a Properties bag so that it can represent a storage structure, however, as per the requirement, the **Account** model needed to be rich and had Behaviour.
+The **Account** class had only properties and all of the Business Logic were written in the Features classes. This is ok for very small systems and if the **Account** class was to be used as a *Properties* bag so that it can represent a storage structure, however, as per the requirement, the **Account** model needed to be rich and had Behaviour.
 
-According to the principals of DDD abd BDD, the Rich Model Object should contain behaviour that will encapsulate its own logic without injecting any dependencies and without communicating with any persistance objects such as a Repositoy. So, in its most basic, the model now handles it own logic, which is within the *context* of **Account Transactions** and nothing more. There are no external classes/objects, no dependencies whatsoever and that makes it easy to fully Unit test it in a Behavioural way. To achieve Behavioural testing, I used SpecFlow 3.
+According to the principals of DDD abn BDD, the Rich Model Object should contain behaviour that will encapsulate its own logic without injecting any dependencies and without communicating with any persistance objects such as a Repositoy. So, in its most basic, the model now handles it own logic, which is within the *context* of **Account Transactions** and nothing more. There are no external classes/objects, no dependencies whatsoever and that makes it easy to fully Unit test it in a Behavioural way. To achieve Behavioural testing, I used SpecFlow 3.
 
 ## Structural changes in the project
 The are no structural changes to the App project.
