@@ -64,7 +64,8 @@ To run the tests, just make sure that the **Test Explorer** window is visible an
 
 The *Steps file contains all the steps for testing the feature.
 
-## What could be done better?
+## What could I have done better?
+Weel, almost everything :wink: as a Developer I always look to improve.
 Time permitting, a stronger testing harness could be created by adding a proper Mock<Accounts> by using the MOQ library and then use FluentAssertions to perform the Assertions.
 
 Better produced Test Scenarios could help in future development as well.
