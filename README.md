@@ -24,8 +24,9 @@ As part of this process however, you should look to refactor some of the code in
 Once you have completed your work, send us a link to your public repository.
 
 Good luck!
+> ## The following section relates to the Refactoring excercise for MoneyBox
 
-##Code Refactoring
+## Code Refactoring
 
 The **Account** class had only properties and all of the Business Logic were written in the Features classes. This is ok for very small systems and if the **Account** class was to be uses as a Properties bag so that it can represent a storage structure, however, as per the requirement, the **Account** model needed to be rich and had Behaviour.
 
@@ -54,6 +55,8 @@ SpecFlow is an excellent library to perform tests of this nature so I decided to
 
 In the Test project there Three (3) Features each with Test scenarios based on the functionality that will be tested.
 Below each Feature there is a file named after the feature and ends with Steps. So, for the MoneyDeposit.feature, the MoneyDepositSteps.cs file lies directly below.
+
+![Features and Steps](https://github.com/JhonBv/moneybox-withdrawal/blob/master/TestFeatures.png)
 
 The *Steps file contains all the steps for testing the feature.
 
